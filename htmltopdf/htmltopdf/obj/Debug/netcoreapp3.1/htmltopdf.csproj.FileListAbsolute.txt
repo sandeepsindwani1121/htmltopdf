@@ -8,7 +8,6 @@ E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\htmltop
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\htmltopdf.pdb
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\htmltopdf.Views.dll
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\htmltopdf.Views.pdb
-E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.csprojAssemblyReference.cache
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.AssemblyInfoInputs.cache
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.AssemblyInfo.cs
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.csproj.CoreCompileInputs.cache
@@ -35,3 +34,5 @@ E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltop
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.pdb
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.genruntimeconfig.cache
 E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\obj\Debug\netcoreapp3.1\htmltopdf.csproj.CopyComplete
+E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Study\.Net Core\htmltopdf\htmltopdf\htmltopdf\bin\Debug\netcoreapp3.1\itextsharp.dll
